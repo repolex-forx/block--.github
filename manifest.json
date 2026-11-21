@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1.0",
+  "org": "block",
+  "repo": ".github",
+  "versions": [
+    {
+      "commit": "51ce56759b8daf7b43bbe33bff6dcbeb4c2eda96",
+      "parsed_at": "2026-11-21T22:55:52.584914+00:00",
+      "tag": "main",
+      "filetree": "filetree/51ce56759b8daf7b43bbe33bff6dcbeb4c2eda96.nq.gz",
+      "blobs": [
+        "blob/aa2f1a03131611ba349c0df1b737341d9626806a.nq.gz",
+        "blob/b8e821860d83644bfbb205068e569da6ace84d48.nq.gz",
+        "blob/05aebd07ba8c49dfb7e310de4ec07d5f449b93f3.nq.gz",
+        "blob/38a8704065c73eb6441deb835f516a3221a281dd.nq.gz",
+        "blob/b72282eb84b7f52004c29886afe3d63fccd28011.nq.gz",
+        "blob/ab6682c5277626e6f1c5460d8e78135b77f16f75.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
